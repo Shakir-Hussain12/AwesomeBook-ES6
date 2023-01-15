@@ -13,7 +13,6 @@ export default class {
         this.data.push(item);
         localStorage.setItem('bookData', JSON.stringify(this.data));
       }
-      window.location.reload();
     };
 
     deleteItem = (name, author) => {
