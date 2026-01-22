@@ -13,7 +13,7 @@
     "tar": "^7.5.4"
   },
   "devDependencies": {
-    "cloudinary": ">=2.7.0",
+    "cloudinary": ">=2.9.0",
     "tar-fs": ">=2.1.4",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
