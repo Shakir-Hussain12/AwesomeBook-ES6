@@ -13,6 +13,7 @@
     "tar": "^7.5.4"
   },
   "devDependencies": {
+    "tar-fs": ">=2.1.4",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
