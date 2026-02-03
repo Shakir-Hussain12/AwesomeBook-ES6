@@ -10,10 +10,39 @@
   "author": "",
   "license": "ISC",
   "overrides": {
+    {
+  "name": "awesomebook-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "overrides": {
     "tar": "^7.5.4"
   },
   "devDependencies": {
     "tar": ">=7.5.7",
+    "got": ">=11.8.5",
+    "ws": ">=8.17.1",
+    "cloudinary": ">=2.9.0",
+    "tar-fs": ">=2.1.4",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.27.4",
+    "hint": "^7.1.3",
+    "stylelint": "^17.0.0",
+    "stylelint-config-standard": "^40.0.0",
+    "stylelint-csstree-validator": "^3.0.0",
+    "stylelint-scss": "^7.0.0"
+  }
+}
+  },
+  "devDependencies": {
     "got": ">=11.8.5",
     "ws": ">=8.17.1",
     "cloudinary": ">=2.9.0",
