@@ -9,10 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "overrides": {
-    "tar": ">=7.5.7",
-  },
   "devDependencies": {
+    "tar": ">=7.5.7",
     "got": ">=11.8.5",
     "ws": ">=8.17.1",
     "cloudinary": ">=2.9.0",
